@@ -1,10 +1,6 @@
-# Daksh Khetan&nbsp;&nbsp;<img src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+## _Hi there!_&nbsp;&nbsp;<img src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-<h3 style="margin-left: 20px">
-  <em>Hi there! 👋</em>
-</h3>
-
-<p style="margin-left: 20px">
+<p>
   <em>
     I build things for the web.
     <br />
@@ -13,49 +9,45 @@
   </em>
 </p>
 
-<br />
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshkhetan&show_icons=true&hide_border=true)
 
 <br />
 
-<div style="margin-left: 20px">
-  <a href="https://in.linkedin.com/in/dakshkhetan" target='_blank'>
-    <img
-      align="left"
-      alt="Daksh Khetan | Linkedin"
-      width="24px"
-      src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Linkedin.svg"
-    />
-  </a>
+<a href="https://in.linkedin.com/in/dakshkhetan" target='_blank'>
+  <img
+    align="left"
+    alt="Daksh Khetan | Linkedin"
+    width="24px"
+    src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Linkedin.svg"
+  />
+</a>
 
-  <a href="https://twitter.com/dakshkhetan" target='_blank'>
-    <img
-      align="left"
-      alt="Daksh Khetan | Twitter"
-      width="26px"
-      src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Twitter.svg"
-    />
-  </a>
+<a href="https://twitter.com/dakshkhetan" target='_blank'>
+  <img
+    align="left"
+    alt="Daksh Khetan | Twitter"
+    width="26px"
+    src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Twitter.svg"
+  />
+</a>
 
-  <a href="https://www.instagram.com/dakshkhetan" target='_blank'>
-    <img
-      align="left"
-      alt="Daksh Khetan | Instagram"
-      width="24px"
-      src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Instagram.svg"
-    />
-  </a>
+<a href="https://www.instagram.com/dakshkhetan" target='_blank'>
+  <img
+    align="left"
+    alt="Daksh Khetan | Instagram"
+    width="24px"
+    src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Instagram.svg"
+  />
+</a>
 
-  <a href="mailto:2012daksh@gmail.com" target='_blank'>
-    <img
-      align="left"
-      alt="Daksh Khetan | Gmail"
-      width="26px"
-      src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Gmail.svg"
-    />
-  </a>
-</div>
+<a href="mailto:2012daksh@gmail.com" target='_blank'>
+  <img
+    align="left"
+    alt="Daksh Khetan | Gmail"
+    width="26px"
+    src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Gmail.svg"
+  />
+</a>
 
 <!-- Here are some ideas to get you started:
 
@@ -66,4 +58,5 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ...
+ -->
