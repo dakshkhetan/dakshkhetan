@@ -1,19 +1,13 @@
-## _Hi there!_&nbsp;&nbsp;<img src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# _Hi there!_&nbsp;<img src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-<p>
-  <em>
-    I build things for the web.
-    <br />
-    Just a budding <b>Full Stack Developer</b> 
-    who is <b>obsessed</b> with the idea of <b>improving</b> himself.
-  </em>
-</p>
+_I build things for the **web**. <img src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/GlobeEmoji.png" width="20px">_   
+_Just a budding **Full Stack Developer** <img src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/male-technologist-emoji.png" width="22px"> who is **obsessed** with the idea of **improving** himself. <img src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/RocketEmoji.png" width="22px">_
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshkhetan&show_icons=true&hide_border=true)
 
 <br />
 
-<a href="https://in.linkedin.com/in/dakshkhetan" target='_blank'>
+<a href="https://in.linkedin.com/in/dakshkhetan">
   <img
     align="left"
     alt="Daksh Khetan | Linkedin"
@@ -22,7 +16,7 @@
   />
 </a>
 
-<a href="https://twitter.com/dakshkhetan" target='_blank'>
+<a href="https://twitter.com/dakshkhetan">
   <img
     align="left"
     alt="Daksh Khetan | Twitter"
@@ -31,7 +25,7 @@
   />
 </a>
 
-<a href="https://www.instagram.com/dakshkhetan" target='_blank'>
+<a href="https://www.instagram.com/dakshkhetan">
   <img
     align="left"
     alt="Daksh Khetan | Instagram"
@@ -40,7 +34,7 @@
   />
 </a>
 
-<a href="mailto:2012daksh@gmail.com" target='_blank'>
+<a href="mailto:2012daksh@gmail.com">
   <img
     align="left"
     alt="Daksh Khetan | Gmail"
