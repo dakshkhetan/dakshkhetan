@@ -1,4 +1,4 @@
-## _Hi there!_&nbsp;<img src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Mario_Hello_Big.gif" width="25px">
+## Hi there! 👋
 
 _I build things for the **web**. <img alt="Globe Emoji" src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/GlobeEmoji.png" width="18px">_   
 _Just a budding **Full Stack Developer** <img alt="Technologist Emoji" src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/male-technologist-emoji.png" width="22px"> who is **obsessed** with the idea of **improving** himself.&nbsp; <img alt="Rocket Emoji" src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/RocketEmoji.png" width="22px">_
